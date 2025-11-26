@@ -1,0 +1,9 @@
+{
+  "name": "Towel Checklist",
+  "short_name": "Checklist",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {"src": "icon.svg", "sizes": "200x200", "type": "image/svg+xml"}
+  ]
+}
